@@ -4,7 +4,7 @@
 
 <resources>
     <!-- Standard version -->
-    <color name="colorPrimary">#61c2d0</color>
-    <color name="colorPrimaryDark">#708fa0</color>
-    <color name="colorAccent">#61c2d0</color>
+    <color name="colorPrimary">#0172bc</color>
+    <color name="colorPrimaryDark">#095b93</color>
+    <color name="colorAccent">#e2f3ff</color>
 </resources>

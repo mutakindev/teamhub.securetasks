@@ -1,12 +1,12 @@
 <resources>
 
-    <string name="app_name">HumHub</string>
-    <string name="app_payoff">Community</string>
+    <string name="app_name">SecureTasks</string>
+    <string name="app_payoff">TeamHub</string>
 
 
     <!-- Share text and link for Share Button -->
     <string name="share_text">Hello, look what a beautiful app that I found here: </string>
-    <string name="share_link">https://www.humhub.org</string>
+    <string name="share_link">https://teamhub.securetasks.com</string>
 
 
 
@@ -16,35 +16,35 @@
 
     <string name="home_label">Übersicht</string>
     <string name="home_type">url</string>
-    <string name="home_url">https://community.humhub.com/dashboard</string>
+    <string name="home_url">https://teamhub.securetasks.com/index.php?r=dashboard%2Fdashboard</string>
 
     <string name="people_label">Mitglieder</string>
     <string name="people_type">url</string>
-    <string name="people_url">https://community.humhub.com/directory/members</string>
+    <string name="people_url">https://teamhub.securetasks.com/index.php?r=user%2Fpeople</string>
 
     <string name="messages_label">Nachrichten</string>
     <string name="messages_type">url</string>
-    <string name="messages_url">https://community.humhub.com/mail/mail/index</string>
+    <string name="messages_url">https://teamhub.securetasks.com/index.php?r=mail%2Fmail%2Findex</string>
 
     <string name="faq_label">Faq</string>
     <string name="faq_type">url</string>
-    <string name="faq_url">https://community.humhub.com/p/1</string>
+    <string name="faq_url">https://teamhub.securetasks.com/p/1</string>
 
     <string name="documentation_label">Dokumentation</string>
     <string name="documentation_type">url</string>
-    <string name="documentation_url">https://community.humhub.com/p/2</string>
+    <string name="documentation_url">https://teamhub.securetasks.com/p/2</string>
 
     <string name="second_category">Optionen</string>
     <string name="settings_label">Einstellungen</string>
 
     <string name="logout_label">Ausloggen</string>
     <string name="logout_type">url</string>
-    <string name="logout_url">https://community.humhub.com/user/auth/logout</string>
+    <string name="logout_url">https://teamhub.securetasks.com/index.php?r=user%2Fauth%2Flogout</string>
 
     <!-- Search button-->
     <string name="search_label">Suche</string>
     <string name="search_type">url</string>
-    <string name="search_url">https://community.humhub.com/search</string>
+    <string name="search_url">https://teamhub.securetasks.com/index.php?r=search%2Fsearch%2Findex</string>
 
     <!-- If you want, you can customize the error page! -->
     <string name="error_page">error.html</string>
@@ -52,11 +52,11 @@
     <!--Home is connect by primary link-->
     <string name="spaces_label">Räume</string>
     <string name="spaces_type">url</string>
-    <string name="spaces_url">https://community.humhub.com/directory/spaces</string>
+    <string name="spaces_url">https://teamhub.securetasks.com/index.php?r=space%2Fspaces</string>
 
     <string name="notification_label">Benachrichtigung</string>
     <string name="notification_type">url</string>
-    <string name="notification_url">https://community.humhub.com/notification/overview</string>
+    <string name="notification_url">https://teamhub.securetasks.com/index.php?r=notification%2Foverview</string>
 
     <!-- ########################################## STRINGS ######################################  -->
     <!-- String for translate -->
