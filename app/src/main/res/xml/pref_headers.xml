@@ -2,18 +2,18 @@
 
     <!-- Comment next block to disable General settings -->
     <header
-        android:fragment="com.becode.humhub.SettingsActivity$GeneralPreferenceFragment"
+        android:fragment="com.securetasks.teamhub.SettingsActivity$GeneralPreferenceFragment"
         android:title="@string/pref_header_general" android:icon="@drawable/ic_info_black_24dp" />
 
     <!-- Comment next block to disable Notification settings -->
     <header
-        android:fragment="com.becode.humhub.SettingsActivity$NotificationPreferenceFragment"
+        android:fragment="com.securetasks.teamhub.SettingsActivity$NotificationPreferenceFragment"
         android:title="@string/pref_header_notifications"
         android:icon="@drawable/ic_notifications_black_24dp" />
 
     <!-- Comment next block to disable GPS settings -->
     <header
-        android:fragment="com.becode.humhub.SettingsActivity$GeolocationPreferenceFragment"
+        android:fragment="com.securetasks.teamhub.SettingsActivity$GeolocationPreferenceFragment"
         android:title="@string/pref_header_geolocation"
         android:icon="@drawable/ic_sync_black_24dp" />
 

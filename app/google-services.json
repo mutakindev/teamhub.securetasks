@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:979282292000:android:d28441d5f3905642333b45",
+        "mobilesdk_app_id": "1:979282292000:android:e800ddc290c9b6cc333b45",
         "android_client_info": {
-          "package_name": "com.becode.humhub"
+          "package_name": "com.securetasks.teamhub"
         }
       },
       "oauth_client": [

@@ -1,4 +1,4 @@
-package com.becode.humhub;
+package com.securetasks.teamhub;
 
 
 import android.annotation.TargetApi;

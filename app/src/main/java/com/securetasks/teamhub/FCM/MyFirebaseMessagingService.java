@@ -1,4 +1,4 @@
-package com.becode.humhub.FCM;
+package com.securetasks.teamhub.FCM;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -12,8 +12,8 @@ import android.preference.PreferenceManager;
 import androidx.core.app.NotificationCompat;
 import android.util.Log;
 
-import com.becode.humhub.MainActivity;
-import com.becode.humhub.R;
+import com.securetasks.teamhub.MainActivity;
+import com.securetasks.teamhub.R;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 

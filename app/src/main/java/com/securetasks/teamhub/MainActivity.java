@@ -1,4 +1,4 @@
-package com.becode.humhub;
+package com.securetasks.teamhub;
 
 import android.content.Context;
 import android.content.Intent;
@@ -40,7 +40,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
-import static com.becode.humhub.R.id.tab_home;
+import static com.securetasks.teamhub.R.id.tab_home;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
