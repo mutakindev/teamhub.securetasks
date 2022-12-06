@@ -154,7 +154,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         final BottomBarTab nearby = bottomBar.getTabWithId(R.id.tab_notification);
         // #badge-notifications
         // set notification base webview call the value base javascript call 
-        nearby.setBadgeCount(1);
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override
             public void onTabSelected(@IdRes int tabId ) {
@@ -425,24 +424,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             bundle.putInt("item_position", 1);
             bundle.putString("type", getString(R.string.messages_type));
             bundle.putString("url", getString(R.string.messages_url));
-            fragment = new FragmentWebInteractive();
-            fragment.setArguments(bundle);
-            tag = "FragmentWebInteractive";
-        } else if (id == R.id.documentation) {
-            Bundle bundle = new Bundle();
-            bundle.putInt("item_position", 2);
-            bundle.putSerializable("item_id", R.id.documentation);
-            bundle.putString("type", getString(R.string.documentation_type));
-            bundle.putString("url", getString(R.string.documentation_url));
-            fragment = new FragmentWebInteractive();
-            fragment.setArguments(bundle);
-            tag = "FragmentWebInteractive";
-        } else if (id == R.id.faq) {
-            Bundle bundle = new Bundle();
-            bundle.putInt("item_position", 3);
-            bundle.putSerializable("item_id", R.id.faq);
-            bundle.putString("type", getString(R.string.faq_type));
-            bundle.putString("url", getString(R.string.faq_url));
             fragment = new FragmentWebInteractive();
             fragment.setArguments(bundle);
             tag = "FragmentWebInteractive";
